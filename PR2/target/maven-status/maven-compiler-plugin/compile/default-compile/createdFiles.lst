@@ -1,0 +1,5 @@
+dut\pd3\practics\practic_2\FinanceAnalyzer\report\TransactionReportGenerator.class
+dut\pd3\practics\practic_2\FinanceAnalyzer\reader\TransactionCSVReader.class
+dut\pd3\practics\practic_2\FinanceAnalyzer\model\Transaction.class
+dut\pd3\practics\practic_2\FinanceAnalyzer\Main.class
+dut\pd3\practics\practic_2\FinanceAnalyzer\analyzer\TransactionAnalyzer.class
